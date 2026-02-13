@@ -40,12 +40,12 @@
         "priority": 5
     },
     {
-        "id": "jisu",
-        "name": "极速资源",
-        "baseUrl": "https://jszyapi.com/api.php/provide/vod",
-        "group": "normal",
+        "id": "shenmayun",
+        "name": "神马云",
+        "baseUrl": "https://lbapi9.com/api.php/provide/vod",
+        "group": "premium",
         "enabled": true,
-        "priority": 6
+        "priority": 6        
     },
     {
         "id": "tianya",
@@ -448,11 +448,11 @@
         "priority": 56
     },
     {
-        "id": "shenmayun",
-        "name": "神马云",
-        "baseUrl": "https://lbapi9.com/api.php/provide/vod",
-        "group": "premium",
+        "id": "jisu",
+        "name": "极速资源",
+        "baseUrl": "https://jszyapi.com/api.php/provide/vod",
+        "group": "normal",
         "enabled": true,
-        "priority": 1
+        "priority": 57
     }
 ]
