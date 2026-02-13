@@ -43,7 +43,7 @@
         "id": "shenmayun",
         "name": "神马云",
         "baseUrl": "https://lbapi9.com/api.php/provide/vod",
-        "group": "premium",
+        "group": "normal",
         "enabled": true,
         "priority": 6        
     },
